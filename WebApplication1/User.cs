@@ -5,5 +5,7 @@
         public int Id { get; set; }
         public string Name { get; set; } = ""; // имя пользователя
         public int Age { get; set; } // возраст пользователя
+        public string Email { get; set; } = "";
+        public string Password { get; set; } = "";
     }
 }

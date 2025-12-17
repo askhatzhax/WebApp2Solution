@@ -1,6 +1,1 @@
-hvhgvjkb
-xcvxcv
-sdf
-chj
-
-фыыфы
+ПРоект для учебы
